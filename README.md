@@ -1,0 +1,2 @@
+# QtComtrade
+电力暂态数据COMTRADE录波文件解析以及波形查看
